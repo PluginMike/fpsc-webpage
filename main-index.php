@@ -297,7 +297,7 @@
                 </div>
                 
                 <div class="contact">
-                    For urgent queries, contact the website owner at <a href="mailto:webmaster@bodycorporate-fpsc.co.za">webmaster@bodycorporate-fpsc.co.za</a>
+                    For urgent queries, contact the developer at <a href="mailto:webmaster@bodycorporate-fpsc.co.za">webmaster@bodycorporate-fpsc.co.za</a>
                 </div>
             </div>
             
